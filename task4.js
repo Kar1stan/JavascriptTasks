@@ -18,7 +18,7 @@ const fetchEarthPopulation = async () => {
 // Usage
 fetchEarthPopulation()
   .then((posts) => {
-    console.log(`Number of posts: ${population}`);
+    console.log(`Number of posts: ${posts}`);
   })
   .catch((error) => {
     console.error(`Error fetching data: ${error}`);
