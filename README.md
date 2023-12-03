@@ -1,6 +1,6 @@
 # JavascriptTasks
 ***
-Javascript file with 3 tasks(sorting and fetch mocking API).
+Javascript file with 6 tasks(sorting and fetch mocking API).
 
 ## 💻 Pre-requisites
 
